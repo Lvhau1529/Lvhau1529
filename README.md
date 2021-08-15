@@ -1,28 +1,35 @@
-### Hi there 👋
 <h1 align="center">✨ I'am Le Van Hau ✨</h1>
 
 <!--
 **Lvhau1529/Lvhau1529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
+<h2 align="center">Socials media</h2>
 <!-- Socials (Icons from https://icons8.com/) -->
 <p align="center">
-  <a href="mailto:guopatrick.correspondence@gmail.com"><img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" title="gmail">
-  <a href="https://github.com/shpatrickguo"><img src="https://img.icons8.com/doodle/96/000000/github--v1.png" title="github">
-  <a href="https://open.spotify.com/user/12136002437?si=4e8d774530354a68"><img src="https://img.icons8.com/doodle/96/000000/spotify.png" title="spotify">
-  <a href="https://github.com/Lvhau1529/Lvhau1529">
+  <a href="https://www.facebook.com/lvhau1529"><img src="https://img.icons8.com/doodle/96/000000/facebook-circled.png" title="facebook"/>
+  <a href="mailto:lvhau1529@gmail.com"><img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" title="gmail">
+  <a href="https://open.spotify.com/user/bet6mhwy7g6efab44pyiadvjc"><img src="https://img.icons8.com/doodle/96/000000/spotify.png" title="spotify">
 </p>
 
+<h2 align="center">Programing languages</h2>
 <!-- Gifs found on GIPHY made by @devrock -->
 <p align="center">
-  <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
   <!-- <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100" title="node"> -->
   <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
   <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
   <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
-  <img alt="reactjs" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100" title="reactjs">
 </p>
 
+<h2 align="center">Frameworks and Preprocessors</h2>
 <p align="center">
-  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
+  <img alt="reactjs" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100" title="reactjs">
+  <img alt="bootstrap" src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="100" title="bootstrap">
+</p>
+
+<h2 align="center">Tools</h2>
+<p align="center">
+  <img alt="git" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="200" title="git">
   <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
+  <img alt="firebase" src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="100" title="firebase">
 </p>
